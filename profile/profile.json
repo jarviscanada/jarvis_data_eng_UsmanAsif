@@ -1,0 +1,134 @@
+{
+  "education": [
+    {
+      "awards_achievements": [
+        "Leadership Role as CR",
+        "Organised and Managed PM visit to University",
+        "Participated in Robotic competitions"
+      ],
+      "degree": "Bachelor of Electrical Engineering",
+      "department": "Electrical and Computer Engineering",
+      "duration": "2008-2012",
+      "school_name": "Comstas University Islamabad"
+    },
+    {
+      "awards_achievements": null,
+      "degree": "Master of Engineering",
+      "department": "Electrical and Computer Engineering",
+      "duration": "2013-2016",
+      "school_name": "University of Ottawa"
+    }
+  ],
+  "github_repo_root_url": "https://github.com/jarviscanada/jarvis_data_eng_UsmanAsif",
+  "highlighted_projects": [
+    {
+      "description": "Want to remove this for now Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": "https://github.com/jarviscanada/jarvis_profile_builder",
+      "name": "None"
+    },
+    {
+      "description": "want to remove this for now Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.",
+      "git_url": null,
+      "name": "None"
+    }
+  ],
+  "jarvis_projects": [
+    {
+      "description": "Linux Cluster Administration Team at Jarvis to monitor and gather data on hardware and resource usage in their system.  This provided valuable information for the team as they can now analyze and  derive solutions from analyzing the data to efficiently allocate resources in the future.  The project was designed, implemented, tested, and deployed with Docker, Bash Scripts,PostgreSQL On GCP (Google Cloud Platform) centos 7 instance.\n",
+      "git_url": "/linux_sql",
+      "name": "Cluster Monitor"
+    },
+    {
+      "description": [
+        "Twitter App: Constructed the Twitter Command Line Interface (CLI) Application which is capable of posting, showing, and deleting a post on Twitter using the command line. The application was created and tested with Java 8, Spring, JUnit, Mockito, DAO Design Pattern",
+        "JDBC App: Constructed the JDBC application to perform CRUD operations using DAO and DTO design patterns on a PostgreSQL retail store's database",
+        "Grep App: Created the Java Grep Application which is an implementation of the Linux Grep command which search for a string of characters in a given directory and outputs them to another file. The application was created with Java SE 8 Lambda/Steam API's with Apache Maven and deployed using Docker."
+      ],
+      "git_url": "/core_java",
+      "name": "Core Java Apps"
+    },
+    {
+      "description": "Developed the Springboot Application to replace legacy system which was hard to scale and manage. The Springboot Application is capable of managing trader's account, buying/selling stocks with funds that you can deposit/withdraw as well as fetch stock information for any company. The projects were designed, implemented, tested, and deployed with; Git, PostgreSQL, Docker, Java SE 8, Apache Maven, Springboot, Apache Tomcat, SwaggerUI, IEX Cloud",
+      "git_url": "/springboot",
+      "name": "Springboot App"
+    },
+    {
+      "description": "Wrote a Zeppelin notebook using Hive SQL. Optimized Hive SQL's efficiency using partition and columnar file format. Compared time difference when doing the same query on tables with different optimization.",
+      "git_url": "/hadoop",
+      "name": "Hadoop"
+    },
+    {
+      "description": "",
+      "git_url": "/spark",
+      "name": "Spark"
+    },
+    {
+      "description": "Provisioned the stock tracking simulation Springboot application using AWS services, such as EC2, ALB, Autoscaling, docker, etc. The application is scalable, fault-tolerant, and elastic. Built a CI/CD pipeline with AWS Elastic Beanstalk and Jenkins.",
+      "git_url": "/cloud_devops",
+      "name": "Cloud/DevOps"
+    }
+  ],
+  "name": "Usman Ullah Asif",
+  "others": [
+    {
+      "bullets": [
+        "Udacity Machine Learning (2019)",
+        "Udemy Python for Data Analysis(2020)"
+      ],
+      "title": "Certificates"
+    },
+    {
+      "bullets": [
+        "Capatianed and Won Tug of War competition at college level "
+      ],
+      "title": "Awards"
+    },
+    {
+      "bullets": [
+        "Cricket Player",
+        "Reugular jogger"
+      ],
+      "title": "Activities/Hobbies"
+    }
+  ],
+  "professional_experience": [
+    {
+      "company": "Jarvis",
+      "description": "Worked as a Data Engineer in a small Agile/Scrum environment to develop and implement solutions to various problems within the Jarvis team as well as small businesses within the community. The projects were implemented using Git/GitHub, Docker, Bash Scripts, CentOS 7, PostgreSQL, Python, Java SE 8, Apache Maven, Springboot, Apache Tomcat, JDBC API, Twitter REST API, and cloud services.",
+      "duration": "2021-present",
+      "title": "Data Engineer Developer"
+    },
+    {
+      "company": "Ads Inc",
+      "description": "Taught students about various programming paradigms — Developed course structure and modules for Linux Operating Systems, MySQL, Shell Scripting — Administered the Installation of various development ecosystems (Cloudera, Hortonworks) for use within classes — Installing and configuring networking Equipment including switches, modems, and routers to provide development environment ",
+      "duration": "JUNE 2018 — APRIL 2019",
+      "title": "Computer Programming Instructor"
+    }
+  ],
+  "skills": {
+    "competent": [
+      "Python",
+      "Hadoop",
+      "Spark",
+      "C/C++",
+      "Networking",
+      "Git"
+    ],
+    "familiar": [
+      "Network Security",
+      "GCP",
+      "Opierating Systems",
+      "HTML/Javascript",
+      "Matlab/R"
+    ],
+    "proficient": [
+      "Java",
+      "Linux/Bash",
+      "Scala",
+      "RDBMS/SQL",
+      "Agile/Scrum",
+      "Git"
+    ]
+  },
+  "summary": "Throughout my education (bachelor’s in electrical engineering and master’s in engineering) I have developed a true passion for code. I believe that data engineering is the most relevant area within IT in the 21st century. As Junior Data Engineer at jarvis and during my deployment in leading Canadian Bank. I was able to particiapte various challenging and fun projects using Agile methodology. Which made me proficent in technologies like java,Scala,Git,Bash,SQL,docker and many more. More than that it taught me about problem solving and Leadership in this Pandemic World."
+}
