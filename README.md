@@ -1,10 +1,10 @@
 # Usman Ullah Asif . Jarvis Consulting
 
-Throughout my education (bachelor’s in electrical engineering and master’s in engineering) I have developed a true passion for code. I believe that data engineering is the most relevant area within IT in the 21st century. As Junior Data Engineer at jarvis and during my deployment in leading Canadian Bank. I was able to particiapte various challenging and fun projects using Agile methodology. Which made me proficent in technologies like java,Scala,Git,Bash,SQL,docker and many more. More than that it taught me about problem solving and Leadership in this Pandemic World.
+I am detail-oriented, and an inquisitive problem solver who loves to build simple solutions for complex real-world problems. Throughout my education (bachelor’s in electrical engineering and master’s in engineering) I have developed a true passion for code. I believe that data engineering is the most relevant area within IT in the 21st century. As an Applications and  Data Engineer, I learnt tools and skills including but not limited to software design patterns, core Java programming, version control, building microservices, testing, and deployment. Collaborating within and across teams to address challenges at the organizational or personal level helps me foster a productive work environment overall. I am a quick learner who adapts to fast-paced work environments.One of my greatest drives to work in the software industry is the positive impact technology can have on a large scale for the social good. My passion lies in leveraging the power of data and cutting-edge technology to improve people's lives on a day-to-day basis.
 
 ## Skills
 
-**Proficient:** Java, Linux/Bash, Scala, RDBMS/SQL, Agile/Scrum, Git
+**Proficient:** Java, Scala, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
 
 **Competent:** Python, Hadoop, Spark, C/C++, Networking, Git
 
@@ -15,7 +15,7 @@ Throughout my education (bachelor’s in electrical engineering and master’s i
 Project source code: [https://github.com/jarviscanada/jarvis_data_eng_UsmanAsif](https://github.com/jarviscanada/jarvis_data_eng_UsmanAsif)
 
 
-**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_UsmanAsif/tree/master/linux_sql)]: Linux Cluster Administration Team at Jarvis to monitor and gather data on hardware and resource usage in their system.  This provided valuable information for the team as they can now analyze and  derive solutions from analyzing the data to efficiently allocate resources in the future.  The project was designed, implemented, tested, and deployed with Docker, Bash Scripts,PostgreSQL On GCP (Google Cloud Platform) centos 7 instance.
+**Cluster Monitor** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_UsmanAsif/tree/master/linux_sql)]: Implemented a Linux clustering monitoring agent to monitor, collect and analyze data from host machines in a multiple node cluster over a network in a PostgreSQL database provisioned using docker container using bash scripts and crontab to automate the script's execution. Created the SQL queries for analyzing the collected data for better business decisions and resources planning.
 
 
 **Core Java Apps** [[GitHub](https://github.com/jarviscanada/jarvis_data_eng_UsmanAsif/tree/master/core_java)]:
@@ -34,16 +34,16 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_UsmanAsif]
 
 
 ## Highlighted Projects
-**None** [[GitHub](https://github.com/jarviscanada/jarvis_profile_builder)]: Want to remove this for now Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Try Food**: Developed a web application using Python's Django framework that uses the Yelp Fusion API to randomly suggest a restaurant based on location information and preferred category of food.
 
-**None**: want to remove this for now Quisque magna tellus, tempor vitae arcu sed, volutpat scelerisque lacus. Aliquam varius pulvinar dapibus. Ut a tincidunt sem. Aenean sollicitudin fringilla erat ut imperdiet. Phasellus fermentum, enim vitae laoreet elementum, eros nisl hendrerit lorem.
+**Primary School Teacher Performance review**: Analysed Data for primary school teachers for local school board in Sialkot,Pakistan. Performed Anaylsyis and generated reports using pandas, matplotlib and plotly.
 
 
 ## Professional Experiences
 
 **Data Engineer Developer, Jarvis (2021-present)**: Worked as a Data Engineer in a small Agile/Scrum environment to develop and implement solutions to various problems within the Jarvis team as well as small businesses within the community. The projects were implemented using Git/GitHub, Docker, Bash Scripts, CentOS 7, PostgreSQL, Python, Java SE 8, Apache Maven, Springboot, Apache Tomcat, JDBC API, Twitter REST API, and cloud services.
 
-**Computer Programming Instructor, Ads Inc (JUNE 2018 — APRIL 2019)**: Taught students about various programming paradigms — Developed course structure and modules for Linux Operating Systems, MySQL, Shell Scripting — Administered the Installation of various development ecosystems (Cloudera, Hortonworks) for use within classes — Installing and configuring networking Equipment including switches, modems, and routers to provide development environment 
+**Computer Programming Instructor, Ads Inc (JUNE 2018 — APRIL 2019)**: Taught students about Basics of Computer Programming — Developed course structure and modules for Linux Operating Systems, MySQL, Shell Scripting — Administered the Installation of various development ecosystems (Cloudera, Hortonworks) for use within classes — Installing and configuring networking Equipment including switches, modems, and routers to provide development environment 
 
 
 ## Education
