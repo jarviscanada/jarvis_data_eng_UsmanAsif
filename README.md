@@ -6,7 +6,7 @@ I am detail-oriented, and an inquisitive problem solver who loves to build simpl
 
 **Proficient:** Java, Scala, Linux/Bash, RDBMS/SQL, Agile/Scrum, Git
 
-**Competent:** Python, Hadoop, Spark, C/C++, Networking, Git
+**Competent:** Python, Hadoop, Spark, C/C++, Networking
 
 **Familiar:** Network Security, GCP, Opierating Systems, HTML/Javascript, Matlab/R
 
