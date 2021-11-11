@@ -1,6 +1,6 @@
 # Usman Ullah Asif . Jarvis Consulting
 
-I am detail-oriented, and an inquisitive problem solver who loves to build simple solutions for complex real-world problems. Throughout my education (bachelor’s in electrical engineering and master’s in engineering) I have developed a true passion for code. I believe that data engineering is the most relevant area within IT in the 21st century. As an Applications and  Data Engineer, I learnt tools and skills including but not limited to software design patterns, core Java programming, version control, building microservices, testing, and deployment. Collaborating within and across teams to address challenges at the organizational or personal level helps me foster a productive work environment overall. I am a quick learner who adapts to fast-paced work environments.One of my greatest drives to work in the software industry is the positive impact technology can have on a large scale for the social good. My passion lies in leveraging the power of data and cutting-edge technology to improve people's lives on a day-to-day basis.
+I am detail-oriented and a curious problem solver who loves to build simple solutions for complex real-world problems. Throughout my schooling (Bachelor's degree in electrical engineering and a Master's degree in engineering), I  developed a true passion for code. I believe that data engineering is the most relevant area within IT in the 21st century. As an Applications and  Data Engineer, I learnt tools and skills including but not limited to software design patterns, core Java programming, version control, building microservices, testing, and deployment. Collaborating within and across teams to address challenges at the organizational or personal level helps me foster a productive work environment overall. I am a quick learner who adapts to fast-paced work environments. One of my greatest Motivation to work in the software industry is the positive impact technology can have on a large scale for the social good. My passion lies in leveraging the power of data and cutting-edge technology to improve people lives on a day-to-day basis.
 
 ## Skills
 
@@ -40,6 +40,8 @@ Project source code: [https://github.com/jarviscanada/jarvis_data_eng_UsmanAsif]
 
 
 ## Professional Experiences
+
+**Application Developer, CIBC AML (2021[2 months])**: Worked in a small Agile/Scrum environment where I refactored Java into Scala code and built an Extract-Transform-Load pipeline for the Alert-Ingestion project. We take high priority alerts from various file sources, transform and load them into a Database, that other AML department teams can extract and analyse. ScalaTest was used to create test cases for  ETL pipeline in order to identify bugs and ensure that the components are performing as expected.
 
 **Data Engineer Developer, Jarvis (2021-present)**: Worked as a Data Engineer in a small Agile/Scrum environment to develop and implement solutions to various problems within the Jarvis team as well as small businesses within the community. The projects were implemented using Git/GitHub, Docker, Bash Scripts, CentOS 7, PostgreSQL, Python, Java SE 8, Apache Maven, Springboot, Apache Tomcat, JDBC API, Twitter REST API, and cloud services.
 
