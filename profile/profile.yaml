@@ -1,0 +1,130 @@
+# Preferred name (Characters only)
+name: "Usman Ullah Asif"
+# Your GitHub repo root URL
+github_repo_root_url: https://github.com/jarviscanada/jarvis_data_eng_UsmanAsif
+
+# Introduce yourself, your academic and professional background.
+# What excites you about the software industry and your passion. At least 80 words
+summary: I am detail-oriented, and an inquisitive problem solver who loves to build simple solutions for complex real-world problems. Throughout my education (bachelor’s in electrical engineering and master’s in engineering) I have developed a true passion for code. I believe that data engineering is the most relevant area within IT in the 21st century. As an Applications and  Data Engineer, I learnt tools and skills including but not limited to software design patterns, core Java programming, version control, building microservices, testing, and deployment. Collaborating within and across teams to address challenges at the organizational or personal level helps me foster a productive work environment overall. I am a quick learner who adapts to fast-paced work environments.One of my greatest drives to work in the software industry is the positive impact technology can have on a large scale for the social good. My passion lies in leveraging the power of data and cutting-edge technology to improve people's lives on a day-to-day basis.
+
+# Group your skills by level.
+# Your skills can be anything software related (e.g. language, frameworks, methodologies, software, etc.).
+skills:
+  # At least 5 skills
+  proficient:
+    - Java
+    - Scala
+    - Linux/Bash
+    - RDBMS/SQL
+    - Agile/Scrum
+    - Git
+  # At least 5 skills
+  competent:
+    - Python
+    - Hadoop
+    - Spark
+    - C/C++
+    - Networking
+    - Git
+  # At least 5 skills
+  familiar:
+    - Network Security
+    - GCP
+    - Opierating Systems
+    - HTML/Javascript
+    - Matlab/R
+
+# List of Jarvis projects
+jarvis_projects:
+  - name: "Cluster Monitor"
+    git_url: "/linux_sql"
+    # The project description allows hiring managers to understand your project and technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: > 
+      Implemented a Linux clustering monitoring agent to monitor, collect and analyze data from host machines in a multiple node cluster over a network in a PostgreSQL database provisioned using docker container using bash scripts and crontab to automate the script's execution. Created the SQL queries for analyzing the collected data for better business decisions and resources planning.
+  - name: "Core Java Apps"
+    git_url: "/core_java"
+    description:
+      - "Twitter App: Constructed the Twitter Command Line Interface (CLI) Application which is capable of posting, showing, and deleting a post on Twitter using the command line. The application was created and tested with Java 8, Spring, JUnit, Mockito, DAO Design Pattern"
+      - "JDBC App: Constructed the JDBC application to perform CRUD operations using DAO and DTO design patterns on a PostgreSQL retail store's database"
+      - "Grep App: Created the Java Grep Application which is an implementation of the Linux Grep command which search for a string of characters in a given directory and outputs them to another file. The application was created with Java SE 8 Lambda/Steam API's with Apache Maven and deployed using Docker."
+  - name: "Springboot App"
+    git_url: "/springboot"
+    description: "Developed the Springboot Application to replace legacy system which was hard to scale and manage. The Springboot Application is capable of managing trader's account, buying/selling stocks with funds that you can deposit/withdraw as well as fetch stock information for any company. The projects were designed, implemented, tested, and deployed with; Git, PostgreSQL, Docker, Java SE 8, Apache Maven, Springboot, Apache Tomcat, SwaggerUI, IEX Cloud"
+  
+  - name: "Hadoop"
+    git_url: "/hadoop"
+    description: "Wrote a Zeppelin notebook using Hive SQL. Optimized Hive SQL's efficiency using partition and columnar file format. Compared time difference when doing the same query on tables with different optimization."
+  - name: "Spark"
+    git_url: "/spark"
+    description: ""
+  - name: "Cloud/DevOps"
+    git_url: "/cloud_devops"
+    description: "Provisioned the stock tracking simulation Springboot application using AWS services, such as EC2, ALB, Autoscaling, docker, etc. The application is scalable, fault-tolerant, and elastic. Built a CI/CD pipeline with AWS Elastic Beanstalk and Jenkins."
+
+# List of personal or academic projects
+# Feel free to add more projects
+highlighted_projects:
+    #project name
+  - name: "Try Food"
+    #URL is optional
+    #git_url: "https://github.com/jarviscanada/jarvis_profile_builder"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: Developed a web application using Python's Django framework that uses the Yelp Fusion API to randomly suggest a restaurant based on location information and preferred category of food.
+  - name: "Primary School Teacher Performance review"
+    #git_url:
+    description: Analysed Data for primary school teachers for local school board in Sialkot,Pakistan. Performed Anaylsyis and generated reports using pandas, matplotlib and plotly.
+
+#List of professional experience
+#The job description allows hiring managers to understand your job and the technologies you used(e.g. programming languages, libraries, algorithms, hardware, tools, etc.).
+#The description must be more than 25 words. If your experience is not software related, please focus on soft skills and achievements (e.g. team collaboration, problem-solving, improvements, communication).
+professional_experience:
+  #Write your Jarvis role as a professional experience rather than training.
+  - title: "Data Engineer Developer"
+    company: "Jarvis"
+    duration: "2021-present"
+    # The project description must start with an action verb (https://bit.ly/3guO98u)
+    description: "Worked as a Data Engineer in a small Agile/Scrum environment to develop and implement solutions to various problems within the Jarvis team as well as small businesses within the community. The projects were implemented using Git/GitHub, Docker, Bash Scripts, CentOS 7, PostgreSQL, Python, Java SE 8, Apache Maven, Springboot, Apache Tomcat, JDBC API, Twitter REST API, and cloud services."
+  - title: "Computer Programming Instructor"
+    company: "Ads Inc"
+    duration: "JUNE 2018 — APRIL 2019"
+    description: "Taught students about Basics of Computer Programming 
+— Developed course structure and modules for Linux Operating Systems, MySQL, Shell Scripting 
+— Administered the Installation of various development ecosystems (Cloudera, Hortonworks) for use within 
+classes 
+— Installing and configuring networking Equipment including switches, modems, and routers to provide 
+development environment "
+
+#List of edcuation
+education: 
+  - school_name: "Comstas University Islamabad"
+    duration: "2008-2012"
+    degree: "Bachelor of Electrical Engineering"
+    department: "Electrical and Computer Engineering"
+    # optional
+    awards_achievements: 
+      - "Leadership Role as CR"
+      - "Organised and Managed PM visit to University"
+      - "Participated in Robotic competitions"
+  - school_name: "University of Ottawa"
+    duration: "2013-2016"
+    degree: "Master of Engineering"
+    department: "Electrical and Computer Engineering"
+    awards_achievements: 
+
+#Optional section
+others:
+    #category
+  - title: "Certificates"
+    #list of items
+    bullets:
+      - "Udacity Machine Learning (2019)"
+      - "Udemy Python for Data Analysis(2020)"
+  - title: "Awards"
+    bullets:
+      - "Capatianed and Won Tug of War competition at college level "
+  - title: "Activities/Hobbies"
+    bullets:
+      - "Cricket Player"
+      - "Reugular jogger"
+      
